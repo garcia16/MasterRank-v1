@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="97" alt="MR Icon" src="https://user-images.githubusercontent.com/60000132/201412760-a3f35688-4ff1-4a20-9e7a-6a4d2650ebdd.png">
+  ![mr](https://user-images.githubusercontent.com/60000132/201497770-7b1fda56-35b6-4d34-bc38-77287d17eaae.png)
 <p align="center">🏆 MasterRank 🏆</p>
 </h1>
 
