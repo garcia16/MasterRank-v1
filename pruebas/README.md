@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img width="97" alt="MR Icon" src="https://user-images.githubusercontent.com/60000132/201412760-a3f35688-4ff1-4a20-9e7a-6a4d2650ebdd.png">
-<p align="center">🏆 MasterRank 🏆</p>
+  <img width="450" alt="MR Icon" src="https://user-images.githubusercontent.com/60000132/201497824-ae416644-4489-420e-97d9-37e9f760308c.png">
 </h1>
+
 
 ##  ℹ️ Introduction ℹ️
 
