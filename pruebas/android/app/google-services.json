@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "698621163180",
+    "firebase_url": "https://masterrank-v2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "masterrank-v2",
+    "storage_bucket": "masterrank-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698621163180:android:b578e105c82e696f279109",
+        "android_client_info": {
+          "package_name": "com.example.pruebas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698621163180-nuseml208ablhbvacltl9d7c8otabvjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj_C-NyCv_s5sw83SCPmVeBF5HN5-5Mxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698621163180-nuseml208ablhbvacltl9d7c8otabvjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
